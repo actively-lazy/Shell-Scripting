@@ -1,2 +1,2 @@
 # Shell-Scripting
-Some shell scripts created while learning how to shell script 
+Some shell scripts created while learning to shell script 
